@@ -36,6 +36,8 @@ You can spawn new players using the `spawn` command. Optionally name them using 
 
 https://github.com/Kattoor/arcanists2-sandbox-commands/assets/8040542/a83918dc-dbb4-4175-a7f6-04980da8eb8d
 
+Note: if you have a saved book / outfit, giving the spawned player the name of that save will spawn them with that book and / or outfit equiped.
+
 There are multiple ways to have spawned players cast a spell using a command:
 1. Select the player you spawned FIRST by prefixing your spell with `z.`
 
